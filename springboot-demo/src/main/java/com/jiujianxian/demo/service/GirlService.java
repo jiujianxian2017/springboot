@@ -14,12 +14,12 @@ public class GirlService {
 	public void insertTwo(){
 		Girls girlA = new Girls();
 		girlA.setAge(16);
-		girlA.setName("小雨");
+		girlA.setName("小雪");
 		girlDao.save(girlA);
 		
 		Girls girlB = new Girls();
-		girlB.setAge(18);
-		girlB.setName("大雨");
+		girlB.setAge(180);
+		girlB.setName("大雪");
 		girlDao.save(girlB);
 		
 	}

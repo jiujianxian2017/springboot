@@ -1,4 +1,4 @@
-package com.jiujianxian.demo.utils;
+package com.jiujianxian.demo.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
