@@ -1,0 +1,9 @@
+server:
+   port: 8083
+   servlet:
+      context-path: /home
+      
+girl:
+   name: ruhua
+   age: 22
+   cup: F

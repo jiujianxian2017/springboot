@@ -1,0 +1,9 @@
+server:
+   port: 8080
+   servlet:
+      context-path: /home
+      
+girl:
+   name: liuyifei
+   age: 23
+   cup: C
