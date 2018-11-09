@@ -24,4 +24,8 @@ public class GirlService {
 		
 	}
 
+	public Girls insertOne(Girls girls) {
+		return girlDao.save(girls);
+	}
+
 }

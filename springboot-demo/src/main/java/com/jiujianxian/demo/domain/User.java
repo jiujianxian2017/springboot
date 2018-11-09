@@ -51,4 +51,8 @@ public class User {
 	public void setAge(String age) {
 		this.age = age;
 	}
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", name=" + name + ", sex=" + sex + ", age=" + age + "]";
+	}
 }
